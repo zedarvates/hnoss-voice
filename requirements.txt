@@ -1,0 +1,11 @@
+# Hnoss Voice - Dependencies
+openwakeword>=0.6.0
+requests>=2.31.0
+pyaudio>=0.2.11
+numpy>=1.24.0
+sounddevice>=0.4.6
+soundfile>=0.12.0
+pydub>=0.25.0
+face-recognition>=1.4.0
+opencv-python>=4.8.0
+pillow>=10.0.0
