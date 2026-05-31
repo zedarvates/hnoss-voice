@@ -40,3 +40,17 @@ python main.py
 ## Créateur
 
 Sylvain G. — Projet open-source MIT.
+
+
+---
+
+## 🤝 Support
+
+If you find this project useful, consider supporting its development:
+
+| Coin | Address |
+|------|---------|
+| ₿ **Bitcoin** | `bc1qcqhgfyay56dqexrrnvzguqdczxct0vykqz38dz` |
+| Ξ **Ethereum** | `0x1CbE662f1d6C58bc2adEE57F0e17216882BAc36c` |
+
+Your support helps keep the servers running ☕
