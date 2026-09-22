@@ -42,8 +42,8 @@ Hnoss Voice s'intègre avec Hermes via :
 ## Projets liés
 
 - [kitten-tts](https://github.com/zedarvates/kitten-tts) — TTS local FR
-- [hermes-rust-backend](https://github.com/zedarvates/hermes-rust-backend) — Backend Rust
-- [hermes-brain](https://github.com/zedarvates/hermes-brain) — Architecture cognitive
+- hermes-rust-backend *(dépôt privé)* — Backend Rust
+- hermes-brain *(dépôt privé)* — Architecture cognitive
 
 ## Licence MIT
 
